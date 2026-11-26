@@ -3,7 +3,7 @@
 
 Análise dos dados abertos de acidentes nas rodovias federais, publicados pela Polícia Rodoviária Federal (PRF), para testar com dados um ditado popular bastante repetido.
 
-**[Acesse o painel interativo](https://alinnebarrozo.github.io/Analise_dados_Prf/)**
+**[Acesse o painel interativo](https://alinnebarrozo.github.io/Analise_dados_da_prf/)**
 
 ## Pergunta de negócio
 
