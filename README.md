@@ -1,3 +1,4 @@
+<img width="2400" height="1254" alt="LinkedIn horizontal (1200×627)@2x" src="https://github.com/user-attachments/assets/438c71fa-7826-4046-960e-3bd161cf36ec" />
 # Mulher no volante, perigo constante?
 
 Análise dos dados abertos de acidentes nas rodovias federais, publicados pela Polícia Rodoviária Federal (PRF), para testar com dados um ditado popular bastante repetido.
